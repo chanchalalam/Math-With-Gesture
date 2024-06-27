@@ -9,11 +9,11 @@ In this project, I created a system that can solve mathematical problems using h
 4. Display the solution and provide a step-by-step explanation.
 
 ## Project Structure
-1. Hand gesture capture: Use OpenCV to capture hand gestures from the camera.
+1. Hand gesture capture: Used OpenCV to capture hand gestures from the camera.
 2. Hand gesture recognition: Utilize MediaPipe to recognize and extract mathematical expressions from the hand gestures.
 3. Expression processing: Parse the extracted expressions and convert them into a format suitable for solving.
-4. Expression solving: Implement algorithms to solve the mathematical expressions.
-5. Solution display: Display the solution and provide a step-by-step explanation.
+4. Expression solving: Implemented algorithms to solve the mathematical expressions.
+5. Solution display: Displayed the solution and provide a step-by-step explanation.
    
 ## Implementation Steps
 1. Set up the development environment: Install Python, OpenCV, and MediaPipe libraries.
