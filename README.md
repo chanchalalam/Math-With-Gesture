@@ -1,5 +1,5 @@
 # Math-With-Gesture
-In this project, I created a system that can solve mathematical problems using hand gestures and computer vision techniques. By leveraging OpenCV and MediaPipe libraries, we will develop a program that allows users to draw mathematical expressions on a surface, captures the gestures using a camera, and provides the solution with a step-by-step explanation.
+In this project, I created a system that can solve mathematical problems using hand gestures and computer vision techniques. By leveraging OpenCV and MediaPipe libraries, I developed a program that allows users to draw mathematical expressions on a surface, captures the gestures using a camera, and provides the solution with a step-by-step explanation.
 
 ## Objectives
 
