@@ -3,13 +3,10 @@ In this project, I created a system that can solve mathematical problems using h
 
 ## Objectives
 
-1.Capture hand gestures using a camera and OpenCV.
-
-2.Recognize and extract mathematical expressions from the hand gestures using MediaPipe.
-
-3.Process the Hand gesture recognition and solve them using mathematical algorithms.
-
-4.Display the solution and provide a step-by-step explanation.
+1. Capture hand gestures using a camera and OpenCV.
+2. Recognize and extract mathematical expressions from the hand gestures using MediaPipe.
+3. Process the Hand gesture recognition and solve them using mathematical algorithms.
+4. Display the solution and provide a step-by-step explanation.
 
 ## Project Structure
 1. Hand gesture capture: Use OpenCV to capture hand gestures from the camera.
