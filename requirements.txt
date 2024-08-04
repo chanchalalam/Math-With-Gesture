@@ -3,4 +3,4 @@ numpy
 google-generativeai
 Pillow
 streamlit
-opencv
+opencv-python
